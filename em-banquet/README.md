@@ -1,5 +1,5 @@
 # EM-Banquet
-Banquet implementation using AES-128 in a single-key Evan-Mansour construction.
+Banquet implementation using AES-128 in a single-key Even-Mansour construction.
 
 
 ## Requirements
