@@ -1,5 +1,5 @@
 # EM-LS-AES-Banquet
-Banquet implementation using LS-AES in single-key Evan-Mansour mode.
+Banquet implementation using LS-AES in single-key Even-Mansour mode.
 
 
 ## Requirements
