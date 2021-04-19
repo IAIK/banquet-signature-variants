@@ -11,9 +11,9 @@ The implementation of the **Rainier** signature scheme can be found [here](https
 
 The individual folders contain a Readme on how to run and perform the benchmarks.
 
-* [`em-banquet`](em-banquet): Banquet using an Evan-Mansour variant of AES.
+* [`em-banquet`](em-banquet): Banquet using an Even-Mansour variant of AES.
 * [`lsaes-banquet`](lsaes-banquet): Banquet using a variant of AES with 32-bit S-Boxes.
-* [`em-lsaes-banquet`](em-lsaes-banquet): Banquet using a an Evan-Mansour variant of AES with 32-bit S-Boxes.
+* [`em-lsaes-banquet`](em-lsaes-banquet): Banquet using a an Even-Mansour variant of AES with 32-bit S-Boxes.
 
 
 ## References
