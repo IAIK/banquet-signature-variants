@@ -3,7 +3,8 @@
 This repository contains the code for three variants of the Banquet signature scheme [[1]](#1) which were proposed and benchmarked in our paper
 
 **Shorter Signatures Based on Tailor-Made Minimalist Symmetric-Key Crypto**  
-*Christoph Dobraunig and Daniel Kales and Christian Rechberger and Markus Schofnegger and Greg Zaverucha*
+*Christoph Dobraunig and Daniel Kales and Christian Rechberger and Markus Schofnegger and Greg Zaverucha*  
+[eprint](https://eprint.iacr.org/2021/692)
 
 The implementation of the **Rainier** signature scheme can be found [here](https://github.com/IAIK/rainier-signatures).
 
